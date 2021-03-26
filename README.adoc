@@ -1,0 +1,5 @@
+Simple Arithmetic Example in Ksh
+================================
+
+As documented in https://man.openbsd.org/ksh.1#Arithmetic_expressions[KSH(1)], there is a special
+arithmetic mode in ksh which looks like what's depicted in arithmetic.ksh[arithmetic.ksh].
